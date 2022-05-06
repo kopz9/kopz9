@@ -1,16 +1,29 @@
-### Hi there 👋
+ </div>
+ 
+ </a>
+    <a target='_blank' href="https://twitter.com/kopz09">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+    <a target='_blank' href="https://www.linkedin.com/in/gustavo-eduardo09/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
-<!--
-**kopz9/kopz9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    
+        
+    
+</div>
 
-Here are some ideas to get you started:
+## Hello there
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Be welcome.
+
+## Public information
+
+My name is Gustavo Eduardo. I currently live in São Paulo, Brazil and i am studying to become a software developer. 
+
+## Detailed information
+
+* **Name**: Gustavo Eduardo
+* **Age**: 18
+* **Living in**: São Paulo - SP, Brazil
+* **Stack**: Python - FlaskAPI - MySQL 
+* **University**: Not yet.
