@@ -26,7 +26,7 @@ My name is Gustavo Eduardo. I currently live in São Paulo, Brazil and i am stud
 * **Age**: 18
 * **Living in**: São Paulo - SP, Brazil
 * **Stack**: JavaScript - NodeJS - Python - MySQL 
-* **University**: Centro Universitário SENAC Studying Análise e Desenvolvimento de Sistemas.
+* **University**: Análise e Desenvolvimento de Sistemas at Centro Universitário SENAC.
 
 </div>
 
