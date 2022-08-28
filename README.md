@@ -25,8 +25,8 @@ My name is Gustavo Eduardo. I currently live in São Paulo, Brazil and i am stud
 * **Name**: Gustavo Eduardo
 * **Age**: 18
 * **Living in**: São Paulo - SP, Brazil
-* **Stack**: Python - FlaskAPI - MySQL 
-* **University**: Not yet.
+* **Stack**: JavaScript - NodeJS - Python - MySQL 
+* **University**: Centro Universitário SENAC.
 
 </div>
 
@@ -34,5 +34,8 @@ My name is Gustavo Eduardo. I currently live in São Paulo, Brazil and i am stud
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="javasciprt" src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E>
+  <img align="center" alt="nodejs" src=https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white>
+  
  
  </div>
