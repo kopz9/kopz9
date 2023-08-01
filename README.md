@@ -13,7 +13,7 @@ Be welcome.
 
 ## Public information
 
-My name is Gustavo Eduardo. I currently live in São Paulo, Brazil and i am studying to become a native android software developer. 
+My name is Gustavo Eduardo. I currently live in São Paulo, Brazil and i am studying to become a software developer. 
 
 ## Detailed information
 
