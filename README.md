@@ -1,32 +1,23 @@
- </div>
-  </a>
-    <a target='_blank' href="https://www.linkedin.com/in/gustavo-eduardo09/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-   </a>
-        
-    
-</div>
 
-## Hello there
 
-Be welcome.
-
-## Public information
-
+## ☄️ About me
 My name is Gustavo Eduardo. I currently live in São Paulo, Brazil and i am studying to become a software developer. 
 
-## Detailed information
+## 💻 Languages i'm studying
+
+- **Typescript**
+- **ReactJS**
+
+## 🕸 Detailed information
 
 * **Name**: Gustavo Eduardo
 * **Age**: 19
 * **Living in**: São Paulo - SP, Brazil
 * **University**: Análise e Desenvolvimento de Sistemas at Centro Universitário SENAC.
 
+## 📲 How to contact me?
+- Linkedin: https://www.linkedin.com/in/gustavo-eduardo09/
+- Email: gustavo.kopz09@gmail.com
+
+</div> 
 </div>
-
-
-  
-  
-  
- 
- </div>
