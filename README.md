@@ -12,7 +12,7 @@ My name is Gustavo Eduardo. I currently live in São Paulo, Brazil and i am stud
 ## 🕸 Detailed information
 
 * **Name**: Gustavo Eduardo
-* **Age**: 19
+* **Age**: 20
 * **Living in**: São Paulo - SP, Brazil
 * **University**: Análise e Desenvolvimento de Sistemas at Centro Universitário SENAC.
 
