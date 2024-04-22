@@ -1,5 +1,3 @@
-
-
 ## ☄️ About me
 
 My name is Gustavo Eduardo. I currently live in São Paulo, Brazil and i am studying to become a software developer. 
