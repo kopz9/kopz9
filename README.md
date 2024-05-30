@@ -5,6 +5,7 @@ My name is Gustavo Eduardo. I currently live in São Paulo, Brazil and i am stud
 ## 💻 What i'm studying in the moment?
 
 - **Typescript**
+- **Java**
 - **ReactJS**
 
 ## 🕸 Detailed information
