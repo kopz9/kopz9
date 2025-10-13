@@ -11,7 +11,7 @@ Hi, I'm Gustavo Eduardo, a back-end software engineer based in São Paulo, Brazi
 
 ## 🕸 Detailed information
 
-* **Age**: 20
+* **Age**: 21
 * **Living in**: São Paulo - SP, Brazil
 * **Education**: Graduated in Análise e Desenvolvimento de Sistemas at Centro Universitário SENAC.
 
